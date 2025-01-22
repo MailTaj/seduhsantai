@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Italian Roast Blend",
+        "price": "120.000",
+        "image": "4cof.png"  
+    },
+    {
+        "id": 2,
+        "name": "Espresso Blend",
+        "price": "125.000",
+        "image": "5cof.png"  
+    },
+    {
+        "id": 3,
+        "name": "Tropical Blend",
+        "price": "115.000",
+        "image": "6cof.png"  
+    },
+    {
+        "id": 4,
+        "name": "Sumatra Mandheling Blend",
+        "price": "115.000",
+        "image": "7cof.png"  
+    },
+    {
+        "id": 5,
+        "name": "Colombian Supremo Blend",
+        "price": "125.000",
+        "image": "8cof.png"  
+    },
+    {
+        "id": 6,
+        "name": "Mocha Java Blend",
+        "price": "120.000",
+        "image": "1cof.png"  
+    },
+    {
+        "id": 7,
+        "name": "Breakfast Blend",
+        "price": "100.000",
+        "image": "2cof.png"  
+    },
+    {
+        "id": 8,
+        "name": "House Blend",
+        "price": "100.000",
+        "image": "3cof.png"  
+    }
+]
